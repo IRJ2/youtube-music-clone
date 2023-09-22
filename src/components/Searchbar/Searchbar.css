@@ -1,6 +1,7 @@
 .searchbar{
     display: flex;
     justify-content: space-between;
+    padding: 10px;
 }
 
 .searchbar-box{
@@ -44,4 +45,24 @@
 
 .searchbar-input:focus{
     outline: none;
+}
+
+.searchbar-menu{
+    color: #ccccccfe;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.searchbar-signin-btn{
+    background-color: #ccccccfe;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    color: #250a0a;
+    font-weight: bold;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    margin-left: 20px;
 }
