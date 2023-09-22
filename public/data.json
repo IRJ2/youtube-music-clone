@@ -1,0 +1,110 @@
+{
+    "songs": [
+      {
+        "title": "Death Bed",
+        "artist": "Powfu",
+        "duration": 3.14,
+        "banner": "https://www.shutterstock.com/shutterstock/photos/2288284355/display_1500/stock-vector-old-woman-lying-in-bed-death-afterlife-flying-human-soul-full-moon-2288284355.jpg",
+        "id": "1"
+      },
+      {
+        "title": "Shape of You",
+        "artist": "Ed Sheeran",
+        "duration": 3.53,
+        "banner": "https://upload.wikimedia.org/wikipedia/en/b/b4/Shape_Of_You_%28Official_Single_Cover%29_by_Ed_Sheeran.png",
+        "id": "2"
+      },
+      {
+        "title": "Blinding Lights",
+        "artist": "The Weeknd",
+        "duration": 3.22,
+        "banner": "https://upload.wikimedia.org/wikipedia/en/e/e6/The_Weeknd_-_Blinding_Lights.png",
+        "id": "3"
+      },
+      {
+        "title": "Havana",
+        "artist": "Camila Cabello",
+        "duration": 3.36,
+        "banner": "https://upload.wikimedia.org/wikipedia/en/9/98/Havana_%28featuring_Young_Thug%29_%28Official_Single_Cover%29_by_Camila_Cabello.png",
+        "id": "4"
+      },
+      {
+        "title": "Uptown Funk",
+        "artist": "Mark Ronson ft. Bruno Mars",
+        "duration": 4.31,
+        "banner": "https://i.scdn.co/image/ab67616d0000b273e419ccba0baa8bd3f3d7abf2",
+        "id": "5"
+      },
+      {
+        "title": "Thinking Out Loud",
+        "artist": "Ed Sheeran",
+        "duration": 4.41,
+        "banner": "https://i1.sndcdn.com/artworks-000100262080-jfn9k6-t500x500.jpg",
+        "id": "6"
+      },
+      {
+        "title": "Rolling in the Deep",
+        "artist": "Adele",
+        "duration": 3.48,
+        "banner": "https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300",
+        "id": "7"
+      },
+      {
+        "title": "Bad Guy",
+        "artist": "Billie Eilish",
+        "duration": 3.14,
+        "banner": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+        "id": "8"
+      },
+      {
+        "title": "Old Town Road",
+        "artist": "Lil Nas X ft. Billy Ray Cyrus",
+        "duration": 2.37,
+        "banner": "https://upload.wikimedia.org/wikipedia/en/1/1c/Old_Town_Road_cover.jpg",
+        "id": "9"
+      },
+      {
+        "title": "See You Again",
+        "artist": "Wiz Khalifa ft. Charlie Puth",
+        "duration": 3.49,
+        "banner": "https://m.media-amazon.com/images/M/MV5BMmMwYzQ5YTUtODVlMS00MmQwLWJjNGQtYTQ5ZDg1MjEwNzJmXkEyXkFqcGdeQXVyNjE0ODc0MDc@._V1_.jpg",
+        "id": "10"
+      },
+      {
+        "title": "Despacito",
+        "artist": "Luis Fonsi ft. Daddy Yankee",
+        "duration": 3.47,
+        "banner": "https://a10.gaanacdn.com/images/albums/50/1893750/crop_480x480_1893750.jpg",
+        "id": "11"
+      },
+      {
+        "title": "Perfect",
+        "artist": "Ed Sheeran",
+        "duration": 4.23,
+        "banner": "https://i1.sndcdn.com/artworks-5QRVzLFOR1CJ6XBi-CRpmiw-t500x500.jpg",
+        "id": "12"
+      },
+      {
+        "title": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "duration": 5.55,
+        "banner": "https://m.media-amazon.com/images/M/MV5BNGU0ZTFlYWQtMjA3YS00YjMyLWJiMDQtOGJiNGE5ZGQwOWRkXkEyXkFqcGdeQXVyNDE4OTY5NzI@._V1_.jpg",
+        "id": "13"
+      },
+      {
+        "title": "Radioactive",
+        "artist": "Imagine Dragons",
+        "duration": 3.06,
+        "banner": "https://upload.wikimedia.org/wikipedia/en/9/91/Imagine_Dragons_-_%22Radioactive%22_%28Single%29.jpg",
+        "id": "14"
+      },
+      {
+        "title": "Can't Stop the Feeling!",
+        "artist": "Justin Timberlake",
+        "duration": 3.56,
+        "banner": "https://upload.wikimedia.org/wikipedia/en/2/21/Justin_Timberlake_-_Can%27t_Stop_the_Feeling.png",
+        "id": "15"
+      }
+    ]
+  }
+  
