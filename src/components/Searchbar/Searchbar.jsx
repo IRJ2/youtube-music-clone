@@ -13,8 +13,7 @@ const Searchbar = () => {
                 <input className='searchbar-input' type="text" placeholder='Search songs,albums, artists, podcasts' />
             </div>
             <div className='searchbar-menu'>
-                <div className="searchbar-icon-box"></div>
-                <FontAwesomeIcon icon={faEllipsisVertical} />
+                <FontAwesomeIcon  icon={faEllipsisVertical} />
                 <button className="searchbar-signin-btn">
                     Sign in
                 </button>
