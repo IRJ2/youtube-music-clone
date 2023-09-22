@@ -2,3 +2,12 @@
     background-image: radial-gradient( circle farthest-side at 0% 20%, #0d0e2d, #1a1a1a, #000000);
     min-height: 100vh;
 }
+.music-list{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.card-list{
+    display: flex;
+    gap: 30px;
+    margin: 10px;
+}

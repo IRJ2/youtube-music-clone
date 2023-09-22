@@ -1,0 +1,21 @@
+.music-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.music-card-frame{
+    width: 100%;
+    border-radius: 5px;
+    overflow: hidden;
+    position: relative;
+}
+.music-card-frame img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.music-card-info{
+    width: 100%;
+    
+    color: #fff;
+}
