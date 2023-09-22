@@ -1,6 +1,9 @@
 .home{
-    background-image: radial-gradient( circle farthest-side at 0% 20%, #0d0e2d, #1a1a1a, #000000);
-    min-height: 100vh;
+    background-image: radial-gradient( circle farthest-side at 0% 20%, #0d0e2d,      #000000);
+    
+}
+.home-cont{
+    margin-left: 300px;
 }
 .music-list{
     display: grid;

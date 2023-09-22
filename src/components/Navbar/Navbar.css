@@ -1,0 +1,83 @@
+.navbar{
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-right: 1px solid rgba(255,255,255,0.1);    
+    position: fixed;
+    top: 0;
+    height: 100vh;
+    width: 250px;
+    background-color: rgb(10, 10, 3);
+}
+.navbar-menu{
+    width: 100%;
+}
+.navbar hr{
+    width: 80%;
+    border: 1px solid rgba(255,255,255,0.1);
+    margin: 10px 0;
+}
+.genre-button{
+    background-color: rgba(255,255,255,0.1);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 1 rem;
+    font-weight: 550;
+}   
+.genre-button:hover{
+    background-color: rgba(255,255,255,0.2);
+    color: #fff;
+}
+.navbar-menu-item{
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 1 rem;
+    font-weight: 550;
+    width: 100%;
+    font-size: 1rem;
+}
+.navbar-menu-item:hover{
+    background-color: rgba(255,255,255,0.1);
+    color: #fff;
+}
+.navbar-logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+.navbar-logo img{
+    width: 30px;
+}
+.navbar-sign-in-btn{
+    background-color: rgba(255,255,255,0.1);
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 1 rem;
+    font-weight: 550;
+    padding: 10px 50px;
+    font-size: 1rem;
+}
+
+.navbar-sign-in-btn:hover{
+    background-color: rgba(255,255,255,0.2);
+    color: #fff;
+}
+
+.navbar-caption{
+    color: rgba(255, 255, 255, 0.313);
+    font-size: .9rem;
+    text-align: center;
+    padding: 20px;
+}
