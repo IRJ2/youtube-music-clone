@@ -1,0 +1,30 @@
+.misic-list-item{
+    color:#fff;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.music-li-img-frame{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.music-li-img-frame img{
+    width: 100%;
+}
+.music-li-info{
+    padding-left: 10px;
+}
+.music-li-title{
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 0px;
+    padding-bottom: 10px;
+}
+
+.music-li-artist{
+    font-size: .8rem;
+    margin: 0px;
+    color: #ffffff8c;
+}
